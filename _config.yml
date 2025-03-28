@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Eleanor Young"
 title_separator          : "-"
 name                     : &name "Eleanor Young"
-description              : &description "I like playing games new and old, petting cats, software preservation, and history!"
+description              : &description "Eleanor Young (Ellie) is a creative, detail-oriented software preservationist and computer historian in the second year of her MA in Digital Humanities and Master of Library and Information Studies. Her research interests include emulation for software preservation, significant properties of multiplayer games, archival practice, and book history."
 url                      : https://eleanor-young.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/me" # the subpath of your site, e.g. "/blog"
 repository               : "me/eleanor-young.github.io"
@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Eleanor Young"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Creative, detail-oriented software preservationist in her second year of her MA in Digital Humanities and MLIS. She's especially interested in the unique complications of preserving multiplayer games."
+  location         : "Edmonton, Alberta"
   employer         : "University of Alberta"
   uri              : # URL
   email            : "esyoung1@ualberta.ca" 
@@ -77,10 +77,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+  #books:
+    #title: 'Books'
+  #manuscripts:
+    #title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
 
