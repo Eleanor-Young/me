@@ -22,10 +22,10 @@ repository               : "me/eleanor-young.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me_and_grendel.png"
   name             : "Eleanor Young"
   pronouns         : "she/her"  
-  bio              : "Creative, detail-oriented software preservationist in the second year of her MA in Digital Humanities and MLIS. She's especially interested in the unique complications of preserving multiplayer games."
+  bio              : "Creative, detail-oriented software preservationist in the third year of her MA/MLIS at UofA. She's especially interested in the unique complications of preserving multiplayer games."
   location         : "Edmonton, Alberta"
   employer         : "University of Alberta"
   uri              : # URL

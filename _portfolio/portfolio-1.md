@@ -1,7 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Antler Quest"
+excerpt: "A one-page (front and back) TTRPG about growing antlers of your very own.<br/><img src='/images/Antler_Quest_Preview.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+# Antler Quest
+A one-page (front and back) Tabletop Role-Playing Game (TTRPG) about growing antlers of your very own.
+
+[Free to download from itch.io!](https://dellycious.itch.io/antler-quest)
+
+## A Random Antler Poetry Generator
+I really enjoy rolling on random tables, and also love mechanics that leave room for the player's own narrative and interpretation. *Antler Quest* embodies this through lots of satisfying rolling, open-ended prompts, and restricted word count in following those prompts, to encourge creative almost-impressionistic word choice.
+
