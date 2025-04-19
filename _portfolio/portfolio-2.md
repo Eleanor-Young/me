@@ -11,3 +11,4 @@ Bees are really neat, I think. Life would be better if we were all devoted to a 
 
 I'm intending to add music to this eventually, but I just haven't gotten around to it. Gather your pollen in eerie silence...
 
+<embed type = "html" src = "../files/The_Queen's_Pollen.html">
