@@ -1,6 +1,6 @@
 ---
 title: "The Queen's Pollen"
-excerpt: "A Bitsy game. You're a bee. The Queen needs pollen.<br/><img src='/images/Pollen_500x300.png'>"
+excerpt: "A Bitsy game. You're a bee. The Queen needs pollen.<br/><img src='../images/Pollen_500x300.png'>"
 collection: portfolio
 ---
 
