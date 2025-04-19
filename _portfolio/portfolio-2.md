@@ -4,14 +4,13 @@ excerpt: "A Bitsy game. You're a bee. The Queen needs pollen.<br/><img src='/ima
 collection: portfolio
 ---
 
-A Bitsy game. You're a bee. The Queen needs pollen. Play below!
+A Bitsy game. You're a bee. The Queen needs pollen. Play below! Assuming it works...
 
 ### Bees...
 Bees are really neat, I think. Life would be better if we were all devoted to a queen that wanted pretty pollen and dandelions. Creating this game was me living out that fantasy. Gather nice pollen for the Queen, hand it over, and if you get her all the dandelions, too, I'm sure she'd appreciate it.
 
 I'm intending to add music to this eventually, but I just haven't gotten around to it. Gather your pollen in eerie silence...
 
-<!DOCTYPE HTML>
 <html>
 
 <!-- HEADER -->
